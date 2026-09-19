@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+env.bak/
+venv.bak/
+
+# Kullanıcı verileri (her kullanıcıda farklı)
+hata.log.txt
+crash.log.txt
+user_profile.json
+settings.json
+core/vpn_configs/*.enc
+core/vpn_configs/*.conf
+
+# Binary dosyalar (kullanıcı kendi indirsin)
+core/goodbyedpi/*.exe
+core/goodbyedpi/*.dll
+core/goodbyedpi/*.sys
+core/zapret/*.exe
+core/zapret/*.dll
+core/zapret/*.sys
+core/zapret/lua/
+core/zapret/config/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
