@@ -4,8 +4,6 @@
 
 [İndir](https://github.com/NetShield0/NetShield/releases)
 
-</div>
-
 ---
 
 ## 🎯 NetShield Nedir?
@@ -73,5 +71,3 @@ NetShield, **Türkiye'deki internet engellerini** aşmak ve **çevrimiçi gizlil
 4. **`Baslat.bat`** dosyasına çift tıkla (uygulama açılır)
 
 **Gereksinim:** [Python 3.10+](https://www.python.org/downloads/) (kurulumda **"Add Python to PATH"** seçeneğini işaretleyin)
-
-### 🔵 Geliştirici Kurulumu
