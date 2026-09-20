@@ -8,7 +8,7 @@ from logger import get_logger
 log = get_logger()
 
 CURRENT_VERSION = "1.0.0"
-GITHUB_REPO = "netshield/netshield"  # ← kendi repo'nu yaz
+GITHUB_REPO = "NetShield0/NetShield" 
 GITHUB_API = f"https://api.github.com/repos/{GITHUB_REPO}/releases/latest"
 
 

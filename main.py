@@ -1584,9 +1584,9 @@ class MainDashboard(ctk.CTkToplevel):
         ).pack(fill="x", padx=4, pady=(12, 4))
 
         links = [
-            ("📦 GitHub", "https://github.com/netshield"),
-            ("🐛 Hata Bildir", "https://github.com/netshield/issues"),
-            ("📖 Dokümantasyon", "https://github.com/netshield/wiki"),
+            ("📦 GitHub", "https://github.com/NetShield0/NetShield"),
+            ("🐛 Hata Bildir", "https://github.com/NetShield0/NetShield/issues"),
+            ("📖 Dokümantasyon", "https://github.com/NetShield0/NetShield/wiki"),
         ]
         for label, url in links:
             ctk.CTkButton(
